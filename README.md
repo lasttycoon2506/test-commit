@@ -44,3 +44,14 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             if not data:
                 break
             conn.sendall(data)                         (sends back to client data object)
+            
+            
+            
+            
+  
+          
+            sockets-tcp-flow:    https://user-images.githubusercontent.com/114425878/199107926-3c72f7d7-93c0-4ac0-935f-593c8db69ac5.gif
+
+            source:    https://commons.wikimedia.org/wiki/File:InternetSocketBasicDiagram_zhtw.png
+            
+            
